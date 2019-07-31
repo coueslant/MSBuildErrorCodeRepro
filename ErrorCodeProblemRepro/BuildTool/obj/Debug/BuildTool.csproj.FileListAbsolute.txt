@@ -1,0 +1,6 @@
+C:\Users\murray.coueslant\Documents\dev\ErrorCodeProblemRepro\BuildTool\bin\Debug\BuildTool.exe.config
+C:\Users\murray.coueslant\Documents\dev\ErrorCodeProblemRepro\BuildTool\bin\Debug\BuildTool.exe
+C:\Users\murray.coueslant\Documents\dev\ErrorCodeProblemRepro\BuildTool\bin\Debug\BuildTool.pdb
+C:\Users\murray.coueslant\Documents\dev\ErrorCodeProblemRepro\BuildTool\obj\Debug\BuildTool.csproj.CoreCompileInputs.cache
+C:\Users\murray.coueslant\Documents\dev\ErrorCodeProblemRepro\BuildTool\obj\Debug\BuildTool.exe
+C:\Users\murray.coueslant\Documents\dev\ErrorCodeProblemRepro\BuildTool\obj\Debug\BuildTool.pdb

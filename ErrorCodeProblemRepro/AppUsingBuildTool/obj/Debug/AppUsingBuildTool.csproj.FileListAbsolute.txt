@@ -1,0 +1,7 @@
+C:\Users\murray.coueslant\Documents\dev\ErrorCodeProblemRepro\AppUsingBuildTool\bin\Debug\AppUsingBuildTool.exe.config
+C:\Users\murray.coueslant\Documents\dev\ErrorCodeProblemRepro\AppUsingBuildTool\bin\Debug\AppUsingBuildTool.exe
+C:\Users\murray.coueslant\Documents\dev\ErrorCodeProblemRepro\AppUsingBuildTool\bin\Debug\AppUsingBuildTool.pdb
+C:\Users\murray.coueslant\Documents\dev\ErrorCodeProblemRepro\AppUsingBuildTool\obj\Debug\AppUsingBuildTool.csproj.CoreCompileInputs.cache
+C:\Users\murray.coueslant\Documents\dev\ErrorCodeProblemRepro\AppUsingBuildTool\obj\Debug\AppUsingBuildTool.exe
+C:\Users\murray.coueslant\Documents\dev\ErrorCodeProblemRepro\AppUsingBuildTool\obj\Debug\AppUsingBuildTool.pdb
+C:\Users\murray.coueslant\Documents\dev\ErrorCodeProblemRepro\AppUsingBuildTool\obj\Debug\AppUsingBuildTool.csprojAssemblyReference.cache
