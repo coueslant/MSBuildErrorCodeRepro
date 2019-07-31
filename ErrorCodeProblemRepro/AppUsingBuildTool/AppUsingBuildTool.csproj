@@ -51,6 +51,6 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="AfterBuild">
-    <Exec Command="C:\Users\murray.coueslant\Documents\dev\ErrorCodeProblemRepro\BuildTool\bin\Debug\BuildTool.exe" />
+    <Exec Command="ErrorCodeProblemRepro\BuildTool\bin\Debug\BuildTool.exe" />
   </Target>
 </Project>
